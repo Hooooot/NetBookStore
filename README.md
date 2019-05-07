@@ -1,4 +1,4 @@
-﻿#网上书店
+#网上书店
 ##作者：Hooooot
 ###软件描述
 基于Tomcat的Java Web应用，包括JSTL、jQuery、Layui。
